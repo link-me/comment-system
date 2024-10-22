@@ -1,0 +1,21 @@
+### Health
+GET http://localhost:8001/health
+
+### Create comment
+POST http://localhost:8001/comments
+Content-Type: application/json
+
+{
+  "postId": "post-1",
+  "author": "alice",
+  "text": "Hello from http file"
+}
+
+### List comments for post
+GET http://localhost:8001/comments?postId=post-1
+
+### Flag comment (replace ID)
+POST http://localhost:8001/comments/{{id}}/flag
+
+### Delete comment (replace ID)
+DELETE http://localhost:8001/comments/{{id}}
