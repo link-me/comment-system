@@ -24,3 +24,4 @@
 - 2025-09-08: Refactor module
 - 2025-09-09: Setup CI
 - 2025-09-11: Add tests
+- 2025-05-20: Setup CI
