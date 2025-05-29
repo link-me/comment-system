@@ -25,3 +25,4 @@
 - 2025-09-09: Setup CI
 - 2025-09-11: Add tests
 - 2025-05-20: Setup CI
+- 2025-05-29: Fix auth bug
