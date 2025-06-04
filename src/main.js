@@ -16,3 +16,4 @@
 // Setup CI
 // Fix auth bug
 // Enhance logging
+// Update docs
