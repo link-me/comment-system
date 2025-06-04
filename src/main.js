@@ -17,3 +17,4 @@
 // Fix auth bug
 // Enhance logging
 // Update docs
+// Add feature
