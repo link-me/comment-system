@@ -29,3 +29,4 @@
 - 2025-06-01: Enhance logging
 - 2025-06-04: Update docs
 - 2025-06-04: Add feature
+- 2025-06-06: Enhance logging
