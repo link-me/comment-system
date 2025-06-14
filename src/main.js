@@ -21,3 +21,4 @@
 // Enhance logging
 // Update dependencies
 // Add tests
+// Setup CI
