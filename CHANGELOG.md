@@ -33,3 +33,4 @@
 - 2025-06-06: Update dependencies
 - 2025-06-13: Add tests
 - 2025-06-14: Setup CI
+- 2025-06-15: Setup CI
