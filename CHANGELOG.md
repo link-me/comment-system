@@ -37,3 +37,4 @@
 - 2025-06-23: Enhance logging
 - 2025-06-24: Refactor module
 - 2025-06-28: Add feature
+- 2025-06-30: Fix auth bug
