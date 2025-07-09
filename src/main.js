@@ -26,3 +26,4 @@
 // Enhance logging
 // Add feature
 // Refactor module
+// Setup CI
