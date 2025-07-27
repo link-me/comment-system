@@ -40,3 +40,4 @@
 - 2025-06-30: Fix auth bug
 - 2025-07-01: Refactor module
 - 2025-07-09: Setup CI
+- 2025-07-27: Improve performance
