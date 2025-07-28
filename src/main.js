@@ -28,3 +28,4 @@
 // Refactor module
 // Setup CI
 // Improve performance
+// Update dependencies
