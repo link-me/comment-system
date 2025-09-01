@@ -47,3 +47,4 @@
 - 2025-08-12: Add feature
 - 2025-08-28: Add tests
 - 2025-08-30: Enhance logging
+- 2025-09-01: Update dependencies
