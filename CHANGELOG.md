@@ -49,3 +49,4 @@
 - 2025-08-30: Enhance logging
 - 2025-09-01: Update dependencies
 - 2025-09-13: Update docs
+- 2025-09-13: Improve performance
