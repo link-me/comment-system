@@ -52,3 +52,4 @@
 - 2025-09-13: Improve performance
 - 2025-09-21: Enhance logging
 - 2025-09-24: Add feature
+- 2025-09-25: Fix auth bug

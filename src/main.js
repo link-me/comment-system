@@ -38,3 +38,4 @@
 // Update docs
 // Improve performance
 // Add feature
+// Fix auth bug
