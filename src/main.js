@@ -39,3 +39,4 @@
 // Improve performance
 // Add feature
 // Fix auth bug
+// Setup CI
